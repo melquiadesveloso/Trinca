@@ -1,0 +1,208 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Services\\TrincaChurrasAPI.Services.csproj": {}
+  },
+  "projects": {
+    "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\TrincaChurrasAPI.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\TrincaChurrasAPI.Domain.csproj",
+        "projectName": "TrincaChurrasAPI.Domain",
+        "projectPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\TrincaChurrasAPI.Domain.csproj",
+        "packagesPath": "C:\\Users\\Basis Tecnologia\\.nuget\\packages\\",
+        "outputPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Basis Tecnologia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://antigo-nexus.anac.gov.br/nexus/repository/nuget-fabrica/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.anac.gov.br/nexus/repository/nuget-group/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Repository\\TrincaChurrasAPI.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Repository\\TrincaChurrasAPI.Repository.csproj",
+        "projectName": "TrincaChurrasAPI.Repository",
+        "projectPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Repository\\TrincaChurrasAPI.Repository.csproj",
+        "packagesPath": "C:\\Users\\Basis Tecnologia\\.nuget\\packages\\",
+        "outputPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Basis Tecnologia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://antigo-nexus.anac.gov.br/nexus/repository/nuget-fabrica/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.anac.gov.br/nexus/repository/nuget-group/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\TrincaChurrasAPI.Domain.csproj": {
+                "projectPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\TrincaChurrasAPI.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.19.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Services\\TrincaChurrasAPI.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Services\\TrincaChurrasAPI.Services.csproj",
+        "projectName": "TrincaChurrasAPI.Services",
+        "projectPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Services\\TrincaChurrasAPI.Services.csproj",
+        "packagesPath": "C:\\Users\\Basis Tecnologia\\.nuget\\packages\\",
+        "outputPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Basis Tecnologia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://antigo-nexus.anac.gov.br/nexus/repository/nuget-fabrica/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nexus.anac.gov.br/nexus/repository/nuget-group/": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\TrincaChurrasAPI.Domain.csproj": {
+                "projectPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Domain\\TrincaChurrasAPI.Domain.csproj"
+              },
+              "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Repository\\TrincaChurrasAPI.Repository.csproj": {
+                "projectPath": "C:\\Testes\\TrincaChurrasAPI\\TrincaChurrasAPI.Repository\\TrincaChurrasAPI.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

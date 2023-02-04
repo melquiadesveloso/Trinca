@@ -1,0 +1,17 @@
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\bin\Debug\net6.0\TrincaChurrasAPI.Business.deps.json
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\bin\Debug\net6.0\TrincaChurrasAPI.Business.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\bin\Debug\net6.0\TrincaChurrasAPI.Business.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\bin\Debug\net6.0\TrincaChurrasAPI.Domain.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\bin\Debug\net6.0\TrincaChurrasAPI.Repository.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\bin\Debug\net6.0\TrincaChurrasAPI.Domain.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\bin\Debug\net6.0\TrincaChurrasAPI.Repository.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.csproj.AssemblyReference.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.AssemblyInfoInputs.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.AssemblyInfo.cs
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.csproj.CoreCompileInputs.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.csproj.CopyComplete
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\refint\TrincaChurrasAPI.Business.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\TrincaChurrasAPI.Business.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Services\obj\Debug\net6.0\ref\TrincaChurrasAPI.Business.dll

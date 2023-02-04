@@ -1,0 +1,15 @@
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\bin\Debug\net6.0\TrincaChurrasAPI.Repository.deps.json
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\bin\Debug\net6.0\TrincaChurrasAPI.Repository.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\bin\Debug\net6.0\TrincaChurrasAPI.Repository.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\bin\Debug\net6.0\TrincaChurrasAPI.Domain.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\bin\Debug\net6.0\TrincaChurrasAPI.Domain.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.csproj.AssemblyReference.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.AssemblyInfoInputs.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.AssemblyInfo.cs
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.csproj.CoreCompileInputs.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.csproj.CopyComplete
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\refint\TrincaChurrasAPI.Repository.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\TrincaChurrasAPI.Repository.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Repository\obj\Debug\net6.0\ref\TrincaChurrasAPI.Repository.dll

@@ -1,0 +1,12 @@
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\bin\Debug\net6.0\TrincaChurrasAPI.Domain.deps.json
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\bin\Debug\net6.0\TrincaChurrasAPI.Domain.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\bin\Debug\net6.0\TrincaChurrasAPI.Domain.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\TrincaChurrasAPI.Domain.csproj.AssemblyReference.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\TrincaChurrasAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\TrincaChurrasAPI.Domain.AssemblyInfoInputs.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\TrincaChurrasAPI.Domain.AssemblyInfo.cs
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\TrincaChurrasAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\TrincaChurrasAPI.Domain.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\refint\TrincaChurrasAPI.Domain.dll
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\TrincaChurrasAPI.Domain.pdb
+C:\Testes\TrincaChurrasAPI\TrincaChurrasAPI.Domain\obj\Debug\net6.0\ref\TrincaChurrasAPI.Domain.dll

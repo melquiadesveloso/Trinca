@@ -1,0 +1,6 @@
+2023-02-04 13:18:31.430 -03:00 [Information] Iniciando aplicação
+2023-02-04 13:45:19.241 -03:00 [Information] Iniciando aplicação
+2023-02-04 14:02:46.294 -03:00 [Information] Iniciando aplicação
+2023-02-04 14:13:36.107 -03:00 [Information] Iniciando aplicação
+2023-02-04 14:35:27.007 -03:00 [Information] Iniciando aplicação
+2023-02-04 14:35:53.272 -03:00 [Information] Iniciando aplicação

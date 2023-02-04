@@ -1,0 +1,93 @@
+{
+	"info": {
+		"_postman_id": "506c1453-94c4-4e18-ae57-7ce1d6b07afd",
+		"name": "Trinca",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "1019113"
+	},
+	"item": [
+		{
+			"name": "http://localhost:5180/api/TrincaChurras/GetAllReserva",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5180/api/TrincaChurras/GetAllReserva",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"TrincaChurras",
+						"GetAllReserva"
+					]
+				},
+				"description": "Get"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5180/api/TrincaChurras/Reservar",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"nome\": \"Thiago Silva\",\r\n  \"descricao\": \"Churras da Confra\",\r\n  \"data\": \"04/02/2023\",\r\n  \"hora\": \"13:40\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:5180/api/TrincaChurras/Reservar",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"TrincaChurras",
+						"Reservar"
+					]
+				},
+				"description": "Post"
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:5180/api/TrincaChurras/GetReserva/4cf1d385-6e68-4dfc-a2b2-c30a15a5f857",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:5180/api/TrincaChurras/GetReserva/4cf1d385-6e68-4dfc-a2b2-c30a15a5f857",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "5180",
+					"path": [
+						"api",
+						"TrincaChurras",
+						"GetReserva",
+						"4cf1d385-6e68-4dfc-a2b2-c30a15a5f857"
+					],
+					"query": [
+						{
+							"key": "key",
+							"value": "636dc7ee-0d91-4bfb-81b1-2c96ac9be001",
+							"disabled": true
+						}
+					]
+				},
+				"description": "Get sua reserva"
+			},
+			"response": []
+		}
+	]
+}
